@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trading API
 
 ![Node](https://img.shields.io/badge/Node.js-18+-green)
@@ -93,4 +92,3 @@ Construido por Adolfo Cabeia
 =======
 # api-negociacao
 API de negociação de alto desempenho construída com Node.js, TypeScript e Redis, integrando dados do Yahoo Finance com insights de mercado em tempo real, análises técnicas, opções e métricas ESG.
->>>>>>> b2a47b8a5d65c193d454b700100e4aa8c4303556
