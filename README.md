@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 
-## ⚡ Visão geral
+## Visão geral
 
 Um backend de API de **negociação** de alto desempenho, construído com Node.js, Express e TypeScript, que integra dados financeiros em tempo real do Yahoo Finance (RapidAPI).
 
